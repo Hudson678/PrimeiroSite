@@ -1,0 +1,46 @@
+body {
+    font-family: Helvetica;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: #7c7c7c;
+}
+
+
+h1 {
+    color:rgb(255, 255, 255);
+    background-color: rgb(36, 39, 105);
+}
+
+
+class1 {
+    color:rgb(45, 49, 106);
+    text-align:justify;
+    background-color: rgb(49, 60, 70);
+}
+
+
+div {
+    text-align:left;
+}
+
+
+p {
+    text-align: center;
+}
+
+
+button {
+    text-align: center;
+    background-color: rgb(222, 222, 222);
+}
+
+
+h4 {
+    text-align:start;
+}
+
+
+footer {
+    color: rgb(255, 255, 255);
+    background-color: rgb(36, 26, 90);
+}
